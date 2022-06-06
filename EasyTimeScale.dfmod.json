@@ -1,0 +1,14 @@
+{
+    "ModTitle": "EasyTimeScale",
+    "ModVersion": "1.00",
+    "ModAuthor": "Kirk.O",
+    "ContactInfo": "kirkoliveri@gmail.com",
+    "DFUnity_Version": "0.13.5",
+    "ModDescription": "Automates Time Scale Change Upon Loading A Save Game And Starting New Game.",
+    "GUID": "42165085-9135-415c-bd1d-400e0b05823c",
+    "Files": [
+        "Assets/Game/Mods/DFU-Mod_Easy-Time-Scale/Scripts/EasyTimeScaleMain.cs",
+        "Assets/Game/Mods/DFU-Mod_Easy-Time-Scale/modsettings.json"
+    ],
+    "Dependencies": []
+}
